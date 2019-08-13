@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fablix</string>
+    <string name="Add_to_cart">ADD TO CART</string>
+    <string name="transition_avatar">MovieAvatar</string>
+    <string name="transition_title">MovieTitle</string>
+
+    <string name="transition_star_avatar">StarAvatar</string>
+    <string name="transition_star_name">StarName</string>
+
+    <string name="synopsis">Synopsis</string>
+    <string name="synopsis_content">After the cataclysmic events in New York with his fellow Avengers, Steve Rogers, aka Captain America (Chris Evans), lives in the nation\'s capital as he tries to adjust to modern times. An attack on a S.H.I.E.L.D. colleague throws Rogers into a web of intrigue that places the whole world at risk. Joining forces with the Black Widow (Scarlett Johansson) and a new ally, the Falcon, Rogers struggles to expose an ever-widening conspiracy, but he and his team soon come up against an unexpected enemy.</string>
+    <string name="enter_username">Username</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_password">Password</string>
+    <string name="empty_username">Username must not be empty</string>
+    <string name="empty_password">Password must not be empty</string>
+    <string name="wrong_username">Username does not exist</string>
+    <string name="wrong_password">Wrong password. Try Again</string>
+    <string name="log_out_successfully">Successfully logged out</string>
+</resources>
